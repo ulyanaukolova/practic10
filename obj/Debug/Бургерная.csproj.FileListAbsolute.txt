@@ -1,0 +1,44 @@
+C:\Users\Pavel-PC\source\repos\Бургерная\Бургерная\bin\Debug\Бургерная.exe.config
+C:\Users\Pavel-PC\source\repos\Бургерная\Бургерная\bin\Debug\Бургерная.exe
+C:\Users\Pavel-PC\source\repos\Бургерная\Бургерная\bin\Debug\Бургерная.pdb
+C:\Users\Pavel-PC\source\repos\Бургерная\Бургерная\obj\Debug\Бургерная.csproj.AssemblyReference.cache
+C:\Users\Pavel-PC\source\repos\Бургерная\Бургерная\obj\Debug\Бургерная.csproj.CoreCompileInputs.cache
+C:\Users\Pavel-PC\source\repos\Бургерная\Бургерная\obj\Debug\Бургерная.exe
+C:\Users\Pavel-PC\source\repos\Бургерная\Бургерная\obj\Debug\Бургерная.pdb
+C:\Users\pavel\source\repos\Бургерная\Бургерная\bin\Debug\Бургерная.exe.config
+C:\Users\pavel\source\repos\Бургерная\Бургерная\bin\Debug\Бургерная.exe
+C:\Users\pavel\source\repos\Бургерная\Бургерная\bin\Debug\Бургерная.pdb
+C:\Users\pavel\source\repos\Бургерная\Бургерная\obj\Debug\Бургерная.csproj.AssemblyReference.cache
+C:\Users\pavel\source\repos\Бургерная\Бургерная\obj\Debug\Бургерная.csproj.CoreCompileInputs.cache
+C:\Users\pavel\source\repos\Бургерная\Бургерная\obj\Debug\Бургерная.exe
+C:\Users\pavel\source\repos\Бургерная\Бургерная\obj\Debug\Бургерная.pdb
+C:\Users\pavel\OneDrive\Рабочий стол\Бургерная\Бургерная\bin\Debug\Бургерная.exe.config
+C:\Users\pavel\OneDrive\Рабочий стол\Бургерная\Бургерная\bin\Debug\Бургерная.exe
+C:\Users\pavel\OneDrive\Рабочий стол\Бургерная\Бургерная\bin\Debug\Бургерная.pdb
+C:\Users\pavel\OneDrive\Рабочий стол\Бургерная\Бургерная\obj\Debug\Бургерная.csproj.AssemblyReference.cache
+C:\Users\pavel\OneDrive\Рабочий стол\Бургерная\Бургерная\obj\Debug\Бургерная.csproj.CoreCompileInputs.cache
+C:\Users\pavel\OneDrive\Рабочий стол\Бургерная\Бургерная\obj\Debug\Бургерная.exe
+C:\Users\pavel\OneDrive\Рабочий стол\Бургерная\Бургерная\obj\Debug\Бургерная.pdb
+C:\Users\Pavel-PC\Desktop\Бургерная\Бургерная\bin\Debug\Бургерная.exe.config
+C:\Users\Pavel-PC\Desktop\Бургерная\Бургерная\bin\Debug\Бургерная.exe
+C:\Users\Pavel-PC\Desktop\Бургерная\Бургерная\bin\Debug\Бургерная.pdb
+C:\Users\Pavel-PC\Desktop\Бургерная\Бургерная\obj\Debug\Бургерная.csproj.AssemblyReference.cache
+C:\Users\Pavel-PC\Desktop\Бургерная\Бургерная\obj\Debug\Бургерная.csproj.CoreCompileInputs.cache
+C:\Users\Pavel-PC\Desktop\Бургерная\Бургерная\obj\Debug\Бургерная.exe
+C:\Users\Pavel-PC\Desktop\Бургерная\Бургерная\obj\Debug\Бургерная.pdb
+C:\Users\lucyo\OneDrive\Рабочий стол\Новая папка\Бургерная\bin\Debug\Бургерная.exe.config
+C:\Users\lucyo\OneDrive\Рабочий стол\Новая папка\Бургерная\bin\Debug\Бургерная.exe
+C:\Users\lucyo\OneDrive\Рабочий стол\Новая папка\Бургерная\bin\Debug\Бургерная.pdb
+C:\Users\lucyo\OneDrive\Рабочий стол\Новая папка\Бургерная\obj\Debug\Бургерная.csproj.AssemblyReference.cache
+C:\Users\lucyo\OneDrive\Рабочий стол\Новая папка\Бургерная\obj\Debug\Бургерная.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucyo\OneDrive\Рабочий стол\Новая папка\Бургерная\obj\Debug\Бургерная.csproj.CoreCompileInputs.cache
+C:\Users\lucyo\OneDrive\Рабочий стол\Новая папка\Бургерная\obj\Debug\Бургерная.exe
+C:\Users\lucyo\OneDrive\Рабочий стол\Новая папка\Бургерная\obj\Debug\Бургерная.pdb
+C:\Users\MASTER\Downloads\Новая папка\Бургерная\bin\Debug\Бургерная.exe.config
+C:\Users\MASTER\Downloads\Новая папка\Бургерная\bin\Debug\Бургерная.exe
+C:\Users\MASTER\Downloads\Новая папка\Бургерная\bin\Debug\Бургерная.pdb
+C:\Users\MASTER\Downloads\Новая папка\Бургерная\obj\Debug\Бургерная.csproj.AssemblyReference.cache
+C:\Users\MASTER\Downloads\Новая папка\Бургерная\obj\Debug\Бургерная.csproj.SuggestedBindingRedirects.cache
+C:\Users\MASTER\Downloads\Новая папка\Бургерная\obj\Debug\Бургерная.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Downloads\Новая папка\Бургерная\obj\Debug\Бургерная.exe
+C:\Users\MASTER\Downloads\Новая папка\Бургерная\obj\Debug\Бургерная.pdb
